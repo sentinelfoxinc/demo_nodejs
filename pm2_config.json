@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "app",
+      "script": "index.js",
+      "log_date_format": "YYYY-MM-DD HH:mm:ss Z",
+      "env": {
+        "APP_TYPE": "test",
+        "CERTS": "pres"
+      }
+    }
+  ]
+}
